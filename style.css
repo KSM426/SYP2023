@@ -1,0 +1,21 @@
+.container {
+    text-align: center;
+}
+
+#gameBoard{
+    margin-top : 150px;
+    background-color: white;
+    border: 3px solid black;
+}
+
+#titleText{
+    margin-top: 200px;
+    margin-bottom: 50px;
+    font-size : 75px;
+}
+
+#playbtn{
+    width : 150px;
+    height : 100px;
+    font-size : 40px;
+}
